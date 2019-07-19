@@ -1,5 +1,6 @@
-package hello
+package main	
 
 func main() {
-	GetHello()
+
+	hello.GetHello()
 }
