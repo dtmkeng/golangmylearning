@@ -3,13 +3,14 @@ package school
 // SchoolName function 
 var SchoolName = "เตรียมอุดมศึกษา";
 
-// GetSchoolAddress function
+// GetSchoolAddress  function
 func GetSchoolAddress() string {
     return "กรุงเทพ";
 }
-// func GetName() string {
-// 	return StudentName
-// }
+// GetName function 
+func GetName() string {
+	return StudentName
+}
 // // SetName function
 // func SetName(name string)  {
 // 	StudentName := name
